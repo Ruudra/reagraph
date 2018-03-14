@@ -11,8 +11,8 @@ Step #2: Extract the file wherever and however
 
 ![ezgif-4-288f8d8d4d](https://user-images.githubusercontent.com/37314102/37381240-761bd96c-2712-11e8-9386-186e30ba30c8.gif)
 
-Step #3: Edit the Python file to your needs, replace the test.txt with your text file with data, replace the plt.title('Graphed Data') with what your datas title is, and replace the label with what the lines label is.
+Step #3: Edit the Python file to your needs: replace the test.txt with your text file with data, replace the plt.title('Graphed Data') with what your datas title is, and replace the label with what the lines label is.
 
-![ezgif-4-5d0853aadf](https://user-images.githubusercontent.com/37314102/37381243-7650cb90-2712-11e8-9702-18f2914d6651.gif)
+![ezgif-4-19538878e1](https://user-images.githubusercontent.com/37314102/37433622-ff48feea-27b2-11e8-9e57-504e1301ccc8.gif)
 
-This is a beta project, more updates will be provided soon
+# This is a beta project, more updates will be provided soon
