@@ -14,6 +14,7 @@ Step #2: Extract the file wherever and however:
 Step #3: Edit the Python file to your needs: replace the test.txt with your text file, replace the plt.title('Graphed Data') with what your data's title is, and replace the label with what the lines label is:
 
 ![ezgif-4-19538878e1](https://user-images.githubusercontent.com/37314102/37433622-ff48feea-27b2-11e8-9e57-504e1301ccc8.gif)
+
 Make sure that your text file is in the same folder as reagraph!
 
 Step #4 (Optional): You may include multiple labels/plots:
