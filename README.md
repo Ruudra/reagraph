@@ -1,5 +1,5 @@
 # reagraph
-An automated Python script to graph data
+A free, open-source Python script used to graph data
 
 # How to use "reagraph" on Mac
 
