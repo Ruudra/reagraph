@@ -1,0 +1,10 @@
+import matplotlib.pyplot as plt
+
+x, y = np.loadtxt('insert_text_file_here.txt', delimiter=',', unpack=True)
+insert_label_here = ['insert_labels_here']
+cols = ['c','m','r','b']
+
+plt.pie(slices, insert_label_here=activities,colors=cols, startangle=90, shadow= True, explode=(0,0.1,0,0), autopct='%1.1f%%')
+
+plt.title('Interesting Graph\nCheck it out')
+plt.show()
